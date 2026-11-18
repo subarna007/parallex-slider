@@ -1,5 +1,16 @@
-### Parallex Slider  
-This Project shows how to use flickity library in javascript to create a Parallex Slider. Also this slider is full responsive and you can use it as carousel in your website designs❗️
-# Screenshot
+# Parallax Slider
 
-![screenshot](screenshot.jpg)
+Full-screen image slider with a parallax effect, built with the Flickity library.
+
+## Features
+
+- Parallax background movement while sliding
+- Navigation dots and arrows
+
+## Run it
+
+No build step. Open `index.html` in a browser, or serve the folder with any static server, for example `python -m http.server`.
+
+## Screenshots
+
+![Parallax Slider screenshot](screenshot.jpg)
